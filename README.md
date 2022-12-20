@@ -1,3 +1,20 @@
+<h1 align="center">An AirBnB_clone_v4.</h1>
+
+## Description :house:
+
+HolbertonBnB is a complete RESTful web application, integrating file and
+database (MySQL) storage in a back-end API with front-end interfacing in a
+clone of AirBnB. The front-end is designed using HTML5/CSS3 and is served using
+Python Flask. The application is configured on a distributed system - two web
+servers and one load balancer - with Nginx and HAProxy.
+
+HolbertonBnB is still in active development, with complete functionality set to
+deploy in the coming month:
+
+* Complete integration of a RESTful API
+* Full configuration of website with domain name
+* Serving of dynamic content using JavaScript
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -153,12 +170,19 @@ EOF  all  create  destroy  help  quit  show  update
 ## Bugs
 No known bugs at this time. 
 
-## Authors
+## Authors :black_nib:
+
+Mulugeta Achiso Wodebo - [Linkedin](https://www.linkedin.com/in/mulugeta-wodebo-843118170) | [Twitter](https://twitter.com/anem_achiso) | [GitHub](https://github.com/Anemachiso)
+
+## License
+Public Domain. No copy write protection. 
+
+
+## Authors old
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
